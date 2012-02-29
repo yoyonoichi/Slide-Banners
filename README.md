@@ -36,8 +36,9 @@ Visit [Demo Page](http://the8thocean.com/misc/jqueryplugins/Slide-Banners/demo/)
 * slideHorizontal: Sliding direction ... (boolean)(default - true)
 * loading: If you have loading gif-animation image ... (boolean)(default - false)
 * showButton: Showing buttons or not ... (boolean)(default - true)
-* buttonStyle: Button style settings ... (object or false)(defalt - object) 
-		>	height: button height ... (int / px)(default - 25)
+* buttonStyle: Button style settings ... (object or false)(defalt - object):
+                       
+		> height: button height ... (int / px)(default - 25)
 		> fontColor: font color ... (string)(default - '#252525')
 		> fontSize: font size ... (int / px)(default - 14)
 		> fontWeight: font weight ... (string)(default - 'normal')
