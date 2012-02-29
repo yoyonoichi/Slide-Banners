@@ -55,6 +55,7 @@ Visit [Demo Page](http://the8thocean.com/misc/jqueryplugins/Slide-Banners/demo/)
 	> textMargin: top margin for button text ... (int / px)(default - 0)
 	> marginRight: margin right of each button ... (int / px)(default - 1)
 	> opacity: buttons' transparency ... (Number / 0 - 1)(default - 0.8) 
+
 * maps: Link mapping to images ... (Array / area tag HTML or false)(default - false) 
 * text: display text for each button ... (Array / strings or false)(default - false)
 
